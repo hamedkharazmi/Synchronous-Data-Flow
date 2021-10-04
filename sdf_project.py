@@ -1,7 +1,5 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-# import numpy as np
-# import pylab
 
 # Required variables
 actors_processing_time=[]
